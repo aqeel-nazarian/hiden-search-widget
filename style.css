@@ -24,7 +24,7 @@ body {
    background-color: #fff;
    border: none;
    font-size: 1.2rem;
-   padding: 0.98rem;
+   padding: 0.93rem;
    height: 3.125rem;
    width: 3.125rem;
    transition: width 0.3s ease;
@@ -52,6 +52,6 @@ input:focus {
    width: 12.5rem;
 }
 
-.search.search .btn {
+.search.active .btn {
    transform: translateX(12.375rem);
 }
